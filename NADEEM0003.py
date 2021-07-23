@@ -35,7 +35,7 @@ time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(1)
-print '\nIM NOT RESPONSIBLE FOR ANY MISS USE MR-SH4DOW\n'
+print '\nIM NOT RESPONSIBLE FOR ANY MISS USE MR-NADEEM\n'
 for password in wordlist:
     if password == '' or password == ' ':
         pass
