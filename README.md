@@ -18,7 +18,9 @@ git clone https://github.com/Rananadeem5214/Target_clone.git
 ls
 
 cd Target_clone
+
 git pull
+
 
 python2 target.py
 
